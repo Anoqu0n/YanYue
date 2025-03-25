@@ -5,4 +5,8 @@ package org.yanyue.agent;
  * @date 3/25/25
  */
 public class agent {
+
+    public static void main(String[] args) {
+        System.out.println("sss");
+    }
 }
